@@ -1,4 +1,5 @@
 library(shiny)
+library(magrittr)
 
 list_measures <- list("Simple agreement" = "agree", 
                       "Holsti's CR" = "holsti", 

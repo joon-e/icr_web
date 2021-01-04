@@ -5,6 +5,6 @@ account: joone
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3399248
-bundleId: 3987705
+bundleId: 3992618
 url: https://joone.shinyapps.io/icr_web/
-when: 1607963683.85555
+when: 1608047813.20352
